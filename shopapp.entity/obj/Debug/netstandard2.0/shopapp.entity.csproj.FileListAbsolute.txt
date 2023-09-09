@@ -1,0 +1,5 @@
+C:\Users\Miray\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.AssemblyReference.cache
+C:\Users\Miray\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miray\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\Miray\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\Miray\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
